@@ -21,18 +21,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   custom_js  = []
 
 [params.social]
+  Meetup        = "rladies-seattle"
+  Slack         = "rladies-sea"
+  Twitter       = "RLadiesSeattle"
   Github        = "rladies-seattle"
   Email         = "info@rladies.org"
-  Twitter       = "RLadiesSeattle"
-  Slack         = "rladies-sea"
-  Meetup        = "https://www.meetup.com/rladies-seattle/"
 
 ## Main Menu
 [[menu.main]]
   name = "events"
   weight = 100
   identifier = "events"
-  url = "https://www.meetup.com/rladies-seattle/events/"
+  url = "https://www.meetup.com/{{ .Site.Params.Social.Meetup }}/events/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"

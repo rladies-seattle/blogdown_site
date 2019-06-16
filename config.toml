@@ -1,6 +1,6 @@
 baseurl = "https://example.com/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "R Ladies - Seattle"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -12,36 +12,34 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
-  author = "Chris Turner"
-  description = "Describe your website"
+  avatar = "seattle.jpg"
+  author = "R Ladies - Seattle"
+  description = "R Ladies - Seattle Blogdown Site"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
   custom_js  = []
 
 [params.social]
-  Github        = "username"
+  Github        = "rladies-seattle"
   Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+  Twitter       = "RLadiesSeattle"
+  Slack         = "rladies-sea"
+  Meetup        = "https://www.meetup.com/rladies-seattle/"
 
 ## Main Menu
 [[menu.main]]
-  name = "blog"
+  name = "events"
   weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  identifier = "events"
+  url = "https://www.meetup.com/rladies-seattle/"
+[[menu.main]]
+  name = "info"
+  identifier = "info"
+  weight = 200
+  url = "/info/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
-  weight = 200
-  url = "/projects/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
   weight = 300
-  url = "/resume/"
+  url = "/projects/"

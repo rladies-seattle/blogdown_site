@@ -5,8 +5,8 @@
       <div class="panel-body">
       {{ range $i, $el := .Site.Data.projects.source }}
         <h5>
-          <i class="{{ .icon }}"></i>&nbsp;&nbsp;
-          <strong><a href="#">Project {{ add $i 1 }}</a></strong>&nbsp;-&nbsp;{{ $el.description }}
+          <a href={{ .link }}><i class="{{ .icon }}"></i></a>&nbsp;&nbsp;
+          {{ .date }}<strong>&nbsp;{{ .title }}</strong>&nbsp;<i>{{ .speaker }}</i>&nbsp;&nbsp;{{ $el.description }}
         </h5>
       {{ end }}
       </div>

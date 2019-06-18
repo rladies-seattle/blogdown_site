@@ -1,22 +1,162 @@
-name: Projects
+name: Past Talks
 source:
-  - icon: fa fa-github
-    description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
+  - icon:
+    date:	2019-05-22
+    title:	Learning R
+    speaker:	Malisa Smith
+    link:	
+    description:	
 
-  - icon: fa fa-github
-    description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
+  - icon:	
+    date:	2019-05-22
+    title:	Building Community
+    speaker:	Stefanie Butland
+    link:	
+    description:	
 
-  - icon: fa fa-github
-    description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
+  - icon:	fa fa-github
+    date:	2019-02-17
+    title:	Intro to Shiny
+    speaker:	Megsie Siple
+    link:	https://github.com/mcsiple/shinysea
+    description:	
+
+  - icon:	
+    date:	2019-01-29
+    title:	Intro to R's S4 class
+    speaker:	Chao-Jen Wong
+    link:	
+    description:	
+
+  - icon:	fas fa-file-point
+    date:	2019-01-29
+    title:	Basics of data structures in R
+    speaker:	Rachael Tatman
+    link:	http://www.rctatman.com/files/Tatman_2019_RDataStructures.pdf
+    description:	
+
+  - icon:	
+    date:	2018-11-28
+    title:	Careers and Use Cases Talks
+    speaker:	Kelly Mistry and Marie Jordan
+    link:	
+    description:	
+
+  - icon:	
+    date:	2018-10-29
+    title:	History of R
+    speaker:	Pamela Moriarty
+    link:	
+    description:	
+
+  - icon:	
+    date:	2018-10-29
+    title:	Shiny Tips and Tricks
+    speaker:	Megsie Siple
+    link:	
+    description:	
+
+  - icon:	fas fa-file-powerpoint
+    date:	2018-10-29
+    title:	Tracking Gas Mileage
+    speaker:	Kara Woo
+    link:	https://speakerdeck.com/karawoo/tracking-my-cars-gas-mileage-with-shiny
+    description:	
+
+  - icon:	
+    date:	2018-10-29
+    title:	Project Management Using R
+    speaker:	Liz Kellogg
+    link:	
+    description:	
+
+  - icon:	fas fa-file-powerpoint
+    date:	2018-09-24
+    title:	Data Science Portfolios
+    speaker:	Rachael Tatman
+    link:	http://www.rctatman.com/files/Tatman_2018_DataSciencePortfolios_DC.pdf
+    description:	
+
+  - icon:	fa fa-github
+    date:	2018-08-28
+    title:	RStudio add-ins
+    speaker:	Rebecca Ferrell
+    link:	https://github.com/rebeccaferrell/rstudio-addins-talk
+    description:	
+
+  - icon:	
+    date:	2018-08-28
+    title:	riverdist
+    speaker:	Kerice Doten-Snitker
+    link:	
+    description:	
+
+  - icon:	fas fa-file-point
+    date:	2018-07-23
+    title:	Blogdown for What
+    speaker:	Isabella Velásquez
+    link:	bit.ly/blogdownfw
+    description:	
+
+  - icon:	fa fa-github
+    date:	2018-06-25
+    title:	Intro to Drake
+    speaker:	Christine Stawitz
+    link:	https://github.com/cstawitz/RLadies_Sea_Drake
+    description:	
+
+  - icon:	fa fa-github
+    date:	2018-06-25
+    title:	Intro to Git
+    speaker: Chaya Jones
+    link:	https://github.com/rladies-seattle/git_intro
+    description:	
+
+  - icon:	fas fa-file-powerpoint
+    date:	2018-05-23
+    title:	Making contributions to established R projects
+    speaker:	Kara Woo
+    link:	https://speakerdeck.com/karawoo/r-tips-for-first-time-contributions-to-r-packages
+    description:	
+
+  - icon:	fa fa-github
+    date:	2018-05-23
+    title:	Blogging and Contributing to R Projects
+    speaker:	Maëlle Salmon
+    link:	https://github.com/maelle/rladiesseattle
+    description:	
   
-  - icon: fa fa-globe
-    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+  - icon:	
+    date:	2018-04-23
+    title:	Spatial Data Visualizations
+    speaker:	Aysegul Kramer
+    link:	
+    description:	
+  
+  - icon:	
+    date:	2018-03-19
+    title:	Solving a Polyalphabetic Cypher
+    speaker:	Nissa Ferm
+    link:	
+    description:
 
-  - icon: fa fa-globe
-    description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
+  - icon: fas fa-file-powerpoint
+    date: 2018-03-19
+    title: How to Give a Lightning Talk
+    speaker: Rachael Tatman
+    link: https://docs.google.com/presentation/d/1nod6zgs1DQczpxWg_8opKS7gDmzWMmjMNWIxKzjhEWM/edit?usp=sharing
+    description:
 
-  - icon: fa fa-cog
-    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+  - icon: 
+    date: 2018-03-19
+    title: Intro to Shiny
+    speaker: Bethany Yollin
+    link: 
+    description:
 
-  - icon: fa fa-cog
-    description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
+  - icon: 
+    date: 2018-03-19
+    title: Intro to Accessing Web API Data
+    speaker: Nina Cesare
+    link: 
+    description:

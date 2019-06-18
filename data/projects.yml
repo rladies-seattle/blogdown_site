@@ -21,14 +21,14 @@ source:
     link:	https://github.com/mcsiple/shinysea
     description:	
 
-  - icon:	
+  - icon:	fa fa-github
     date:	2019-01-29
     title:	Intro to R's S4 class
     speaker:	Chao-Jen Wong
-    link:	
+    link:	https://github.com/FredHutch/FHBig/tree/master/lightning_talk/2019-01-23-RLadies-R-OOP
     description:	
 
-  - icon:	fas fa-file-point
+  - icon:	fa fa-file
     date:	2019-01-29
     title:	Basics of data structures in R
     speaker:	Rachael Tatman
@@ -56,7 +56,7 @@ source:
     link:	
     description:	
 
-  - icon:	fas fa-file-powerpoint
+  - icon:	fa fa-file
     date:	2018-10-29
     title:	Tracking Gas Mileage
     speaker:	Kara Woo
@@ -70,7 +70,7 @@ source:
     link:	
     description:	
 
-  - icon:	fas fa-file-powerpoint
+  - icon:	fa fa-file
     date:	2018-09-24
     title:	Data Science Portfolios
     speaker:	Rachael Tatman
@@ -91,7 +91,7 @@ source:
     link:	
     description:	
 
-  - icon:	fas fa-file-point
+  - icon:	fa fa-file
     date:	2018-07-23
     title:	Blogdown for What
     speaker:	Isabella Velásquez
@@ -112,7 +112,7 @@ source:
     link:	https://github.com/rladies-seattle/git_intro
     description:	
 
-  - icon:	fas fa-file-powerpoint
+  - icon:	fa fa-file
     date:	2018-05-23
     title:	Making contributions to established R projects
     speaker:	Kara Woo
@@ -140,18 +140,18 @@ source:
     link:	
     description:
 
-  - icon: fas fa-file-powerpoint
+  - icon: fa fa-file
     date: 2018-03-19
     title: How to Give a Lightning Talk
     speaker: Rachael Tatman
     link: https://docs.google.com/presentation/d/1nod6zgs1DQczpxWg_8opKS7gDmzWMmjMNWIxKzjhEWM/edit?usp=sharing
     description:
 
-  - icon: 
+  - icon: fa fa-github
     date: 2018-03-19
     title: Intro to Shiny
     speaker: Bethany Yollin
-    link: 
+    link: https://github.com/byollin/r-ladies/tree/master/presentations/2018-03-19
     description:
 
   - icon: 

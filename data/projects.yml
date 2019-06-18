@@ -38,8 +38,15 @@ source:
   - icon:	
     date:	2018-11-28
     title:	Careers and Use Cases Talks
-    speaker:	Kelly Mistry and Marie Jordan
-    link:	
+    speaker:	Marie Jordan
+    link:
+    description:	
+
+  - icon:	fa fa-slack
+    date:	2018-11-28
+    title:	Fish & FASDS - Data Visualization Strategies and Techniques
+    speaker:	Kelly Mistry
+    link:	https://rladies-sea.slack.com/archives/C81BK49QF/p1543527811015000
     description:	
 
   - icon:	
@@ -126,11 +133,11 @@ source:
     link:	https://github.com/maelle/rladiesseattle
     description:	
   
-  - icon:	
+  - icon:	fa fa-slack
     date:	2018-04-23
     title:	Spatial Data Visualizations
     speaker:	Aysegul Kramer
-    link:	
+    link:	https://rladies-sea.slack.com/archives/C81BK49QF/p1524533030000253
     description:	
   
   - icon:	
@@ -154,9 +161,9 @@ source:
     link: https://github.com/byollin/r-ladies/tree/master/presentations/2018-03-19
     description:
 
-  - icon: 
+  - icon: fa fa-slack
     date: 2018-03-19
     title: Intro to Accessing Web API Data
     speaker: Nina Cesare
-    link: 
+    link: https://rladies-sea.slack.com/archives/C81BK49QF/p1521509470000219
     description:

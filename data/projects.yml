@@ -4,14 +4,13 @@ source:
     date: 2019-07-16
     title: Tools for Behavioral Health Analytics
     speaker: Carolina Johnson
-    link: https://docs.google.com/presentation/d/1Id4Hx90dfn1Ksbvb4VgkjQjLX4do29TUggOjdX7F3Zg/edit
-    description:	
+    link: https://docs.google.com/presentation/d/1Id4Hx90dfn1Ksbvb4VgkjQjLX4do29TUggOjdX7F3Zg/edit?usp=sharing    description:	
 
   - icon: fa fa-file
     date: 2019-07-16
     title: Using Shiny to Understand Immunologists
     speaker: Helen Miller
-    link: https://docs.google.com/presentation/d/1PThoe1qgObHiaCkstmRjibVggImYvQMNsIg7B421pM4/edit#slide=id.p
+    link: https://docs.google.com/presentation/d/1PThoe1qgObHiaCkstmRjibVggImYvQMNsIg7B421pM4/edit?usp=sharing
     description:	
 
   - icon: fa fa-file
@@ -33,28 +32,28 @@ source:
     date: 2019-07-16
     title: NCBI Hackathons
     speaker: Jenny Smith
-    link: https://docs.google.com/presentation/d/1fWi5nlbtJMSmckXTLcdytDYbmPWqeTQm8yqFlg_83sw/edit?usp=drive_web&ouid=114084946004887718704
+    link: https://docs.google.com/presentation/d/1fWi5nlbtJMSmckXTLcdytDYbmPWqeTQm8yqFlg_83sw/edit?usp=sharing
     description:	
 
   - icon: fa fa-file
     date: 2019-07-16
     title: Can you paint with all the colors of R Markdown?
     speaker: Jessica Marx
-    link: https://docs.google.com/presentation/d/1TjejxkVESwWbSGnhSKtpJpWJGko7PA6wxAzV2ccOBtI/edit?usp=drive_web&ouid=114084946004887718704
+    link: https://docs.google.com/presentation/d/1vY6dL2kTLZcDXytF5HRpZfDP5l15Ov0k1E2QtLic2Ws/edit?usp=sharing
     description:	
 
   - icon: fa fa-file
     date: 2019-07-16
     title: Data Automation to Support Fisheries Management at Dams
     speaker: Megan Stachura
-    link: https://docs.google.com/presentation/d/1bYQwexDYBTBa7mPo7VlVT5HfyMKUdBZa/edit#slide=id.p4
+    link: https://drive.google.com/file/d/1bYQwexDYBTBa7mPo7VlVT5HfyMKUdBZa/view?usp=sharing
     description:	
     
   - icon: fa fa-file
     date: 2019-07-16
     title: Fast and Furrr-ious - Parallelized Purrr
     speaker: Pamela Moriarty
-    link: https://docs.google.com/presentation/d/106DLH6OzkwoW41YKGMn_ym3p_REDRKbT6v2JUtapk3k/edit?usp=drive_web&ouid=114084946004887718704
+    link: https://docs.google.com/presentation/d/106DLH6OzkwoW41YKGMn_ym3p_REDRKbT6v2JUtapk3k/edit?usp=sharing
     description:	
 
   - icon:

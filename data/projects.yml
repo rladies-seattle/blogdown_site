@@ -2,51 +2,60 @@ name: Past Talks
 source:
   - icon: fa fa-file
     date: 2019-07-16
-    speaker: Carolina Johnson
     title: Tools for Behavioral Health Analytics
+    speaker: Carolina Johnson
     link: https://docs.google.com/presentation/d/1Id4Hx90dfn1Ksbvb4VgkjQjLX4do29TUggOjdX7F3Zg/edit
+    description:	
 
   - icon: fa fa-file
     date: 2019-07-16
-    speaker: Helen Miller
     title: Using Shiny to Understand Immunologists
+    speaker: Helen Miller
     link: https://docs.google.com/presentation/d/1PThoe1qgObHiaCkstmRjibVggImYvQMNsIg7B421pM4/edit#slide=id.p
+    description:	
 
   - icon: fa fa-file
     date: 2019-07-16
-    speaker: Megsie Siple
     title: A Shiny app for projecting marine mammal populations
+    speaker: Megsie Siple
     link: https://drive.google.com/open?id=12znmlIk_AWE8_OHvQT7_Qa4n3ju0b0E_
+    description:	
 
   - icon: fa fa-file
     date: 2019-07-16
+    title: Taking a Peek at Hiking Data Using R
     speaker: Isabella Velásquez
     title: Taking a Peek at Hiking Data Using R
     link: https://docs.google.com/presentation/d/1hDxK7gbdg13HzeIGQ9Od-tCHhOwfKM1fSCoeJpvjlaA/edit#slide=id.p
+    description:	
 
   - icon: fa fa-file
     date: 2019-07-16
-    speaker: Jenny Smith
     title: NCBI Hackathons
+    speaker: Jenny Smith
     link: https://docs.google.com/presentation/d/1fWi5nlbtJMSmckXTLcdytDYbmPWqeTQm8yqFlg_83sw/edit?usp=drive_web&ouid=114084946004887718704
+    description:	
 
   - icon: fa fa-file
     date: 2019-07-16
-    speaker: Jessica Marx
     title: Can you paint with all the colors of R Markdown?
+    speaker: Jessica Marx
     link: https://docs.google.com/presentation/d/1TjejxkVESwWbSGnhSKtpJpWJGko7PA6wxAzV2ccOBtI/edit?usp=drive_web&ouid=114084946004887718704
-    
+    description:	
+
   - icon: fa fa-file
     date: 2019-07-16
-    speaker: Megan Stachura
     title: Data Automation to Support Fisheries Management at Dams
+    speaker: Megan Stachura
     link: https://docs.google.com/presentation/d/1bYQwexDYBTBa7mPo7VlVT5HfyMKUdBZa/edit#slide=id.p4
+    description:	
     
   - icon: fa fa-file
     date: 2019-07-16
+    title: Fast and Furrr-ious - Parallelized Purrr
     speaker: Pamela Moriarty
-    title: Fast and Furrr-ious: Parallelized Purrr
     link: https://docs.google.com/presentation/d/106DLH6OzkwoW41YKGMn_ym3p_REDRKbT6v2JUtapk3k/edit?usp=drive_web&ouid=114084946004887718704
+    description:	
 
   - icon:
     date:	2019-05-22

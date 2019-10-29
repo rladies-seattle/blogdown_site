@@ -1,6 +1,20 @@
 name: Past Talks
 source:
   - icon: fa fa-file
+    date: 2019-08-28
+    title: Code Reviews
+    speaker: Carrie Bennette
+    link: https://drive.google.com/file/d/1rvS7nvlQnVwHfvLFVogTVY2OQ0QFCRcV/view?usp=sharing   
+    description:	
+    
+  - icon: fa fa-file
+    date: 2019-08-28
+    title: A Non-Technical Talk on Code Review
+    speaker: Lauren Wolfe
+    link: https://drive.google.com/file/d/1vdVCNpPWutKmoXfHbhqV_5s3UmCAPGil/view?usp=sharing    
+    description:	
+    
+  - icon: fa fa-file
     date: 2019-07-16
     title: Tools for Behavioral Health Analytics
     speaker: Carolina Johnson

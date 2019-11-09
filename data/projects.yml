@@ -1,6 +1,34 @@
 name: Past Talks
 source:
   - icon: fa fa-file
+    date: 2019-10-29
+    title: Using R in design projects
+    speaker: Katie Jolly
+    link: https://drive.google.com/file/d/1YgV7CVRdSN_m3VBIaXeOHCbAqlavvpCa/view?usp=sharing   
+    description:
+
+  - icon: fa fa-file
+    date: 2019-10-29
+    title: Why a style guide is more important than you think
+    speaker: Monica Gerber
+    link: https://docs.google.com/presentation/d/11eFyIS9K2U4z31VliHqtyaKSUihr3cZBAdKSzktMV7w/edit?usp=sharing   
+    description:
+    
+  - icon: fa fa-file
+    date: 2019-10-29
+    title: Attack of the Zombie Data
+    speaker: Natalie Miller
+    link: https://drive.google.com/file/d/15zUjbzq6vJIMagMeBBuUutCHEz5BoruI/view?usp=sharing   
+    description:
+
+  - icon: fa fa-file
+    date: 2019-10-29
+    title: Taming, tidying and visualizing longitudinal data, or data sets that keep me up at night
+    speaker: Claire Levy
+    link: https://drive.google.com/file/d/1rvS7nvlQnVwHfvLFVogTVY2OQ0QFCRcV/view?usp=sharing   
+    description:
+
+  - icon: fa fa-file
     date: 2019-08-28
     title: Code Reviews
     speaker: Carrie Bennette

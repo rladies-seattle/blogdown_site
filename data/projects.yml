@@ -1,6 +1,34 @@
 name: Past Talks
 source:
   - icon: fa fa-file
+    date: 2020-08-05
+    title: R-Ladies Seattle and Allyship
+    speaker: Monica Gerber
+    link: https://docs.google.com/presentation/d/1Q35RQtJisJafMf6A7cyTlNP6d2iR1zGMNvAz5TJM85c/edit?usp=sharing
+    description:
+
+  - icon: fa fa-file
+    date: 2020-08-05
+    title: What do penguins have to do with being anti-racist?
+    speaker: Isabella Velásquez
+    link: https://docs.google.com/presentation/d/1te1mdJde5xqaW-Wi7AN1xDewsVOrpkywL7RvaRq7GM8/edit?usp=sharing
+    description:
+
+  - icon: fa fa-github
+    date: 2020-03-24
+    title: R Help and Debugging
+    speaker: Christine Stawitz
+    link: https://cstawitz.github.io/docs/Stawitz_20200323.html#/
+    description:
+    
+  - icon: fa fa-file
+    date: 2020-03-24
+    title: Writing reproducible examples to get ‘good help’
+    speaker: Katie Jolly
+    link: https://www.katiejolly.io/rladies-reprex-2020/#1   
+    description:
+    
+  - icon: fa fa-file
     date: 2019-10-29
     title: Using R in design projects
     speaker: Katie Jolly
@@ -67,7 +95,6 @@ source:
     date: 2019-07-16
     title: Taking a Peek at Hiking Data Using R
     speaker: Isabella Velásquez
-    title: Taking a Peek at Hiking Data Using R
     link: https://docs.google.com/presentation/d/1hDxK7gbdg13HzeIGQ9Od-tCHhOwfKM1fSCoeJpvjlaA/edit#slide=id.p
     description:	
 

@@ -1,10 +1,6 @@
-# R-Ladies Seattle Blogdown Site
-
-<center>
-<img src='static/img/hex_big.png' align="center" height="300" />
+# R-Ladies Seattle Blogdown Site <img src='static/img/hex_big.png' align="right" height="200" />
 
 Available at: [www.rladiesseattle.org](www.rladiesseattle.org)
-</center>
 
 ## To Update the Site
 

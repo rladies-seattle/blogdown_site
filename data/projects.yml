@@ -1,11 +1,32 @@
 name: Past Talks
 source:
   - icon: fa fa-file
-    date: 2020-08-05
-    title: R-Ladies Seattle and Allyship
-    speaker: Monica Gerber
-    link: https://docs.google.com/presentation/d/1Q35RQtJisJafMf6A7cyTlNP6d2iR1zGMNvAz5TJM85c/edit?usp=sharing
+    date: 2021-02-10
+    title: Parallel Processing in R
+    speaker: Brittany Barker
+    link: https://ookla.d.pr/e8wwP1
     description:
+
+  - icon: fa fa-github
+    date: 2021-01-14
+    title: Version control with git and GitHub-- An introduction to git tools to help you collaborate across space and time
+    speaker: Kim Dill-McFarland
+    link: https://github.com/hawn-lab/workshops_UW_Seattle/blob/master/2021.01.14_git/2020.01.14_git.pptx
+    description:
+    
+  - icon: fa fa-file
+    date: 2021-01-14
+    title: How reproducible code is helping me learn to make clearer, more compelling figures
+    speaker: Tracy Fuentes
+    link: 
+    description:
+    
+  - icon: fa fa-github
+    date: 2021-01-14
+    title: Writing research papers with reproducible analysis using R Markdown compendia
+    speaker: Li-Ying Wang
+    link: https://github.com/LiYingWang/kwl.pottery
+    description: 
 
   - icon: fa fa-file
     date: 2020-08-05

@@ -2,7 +2,7 @@
 
 
 
-Available at: [www.rladiesseattle.org](www.rladiesseattle.org)
+Available at: [www.rladiesseattle.org](http://www.rladiesseattle.org)
 
 ## To Update the Site
 

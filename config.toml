@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   Slack         = "rladies-sea"
   Twitter       = "RLadiesSeattle"
   Github        = "rladies-seattle"
-  Email         = "info@rladies.org"
+  Email         = "seattle@rladies.org"
 
 ## Main Menu
 [[menu.main]]

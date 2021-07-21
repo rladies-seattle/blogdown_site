@@ -1,5 +1,33 @@
 name: Past Talks
 source:
+  - icon: fa fa-github
+    date: 2021-07-20
+    title: Dimensionality Reduction Tutorial PCA and UMAP
+    speaker: Anabel Ruggiero
+    link: https://github.com/AnabelSMRuggiero/Dimensionality-Reduction-Tutorial
+    description:
+
+  - icon: fa fa-file
+    date: 2021-05-26
+    title: Practice talks for CascadiaRConf
+    speaker: Katie Jolly, Kim Dill-McFarland, and Nicole Kauer
+    link: https://docs.google.com/presentation/d/1tFA_XcGrY_DFPY4BYqgUvmJo9hiSgnTC8DomSSjY_Zc/edit?usp=sharing
+    description:
+
+  - icon: fa fa-github
+    date: 2021-04-02
+    title: git through April
+    speaker: Kim Dill-McFarland, Monica Gerber, Isabella Velásquez, Madison Swain-Bowden, with Katie Jolly, Jenny Smith, Lauren Wolfe, Pamela Moriarty in collaboration with the Carpentries
+    link: https://github.com/kdillmcfarland/2021-04-02-r-ladies-seattle-online
+    description:
+
+  - icon: fa fa-link
+    date: 2021-03-16
+    title: Writing Presentations in R
+    speaker: Silvia Canelón and Katie Jolly
+    link: https://silvia.rbind.io/talk/2021-03-16-xaringan-deploy-demo/
+    description:
+
   - icon: fa fa-file
     date: 2021-02-10
     title: Parallel Processing in R

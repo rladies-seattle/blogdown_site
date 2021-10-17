@@ -6,7 +6,7 @@
       {{ range $i, $el := .Site.Data.projects.source }}
         <h5>
           <a href={{ .link }}><i class="{{ .icon }}"></i></a>&nbsp;&nbsp;
-          {{ .date }}<strong>&nbsp;{{ .title }}</strong>&nbsp;<i>{{ .speaker }}</i>&nbsp;&nbsp;{{ $el.description }}
+          {{ .date }}<strong>&nbsp;{{ .title }}</strong>&nbsp;<i>{{ .speaker }}</i>&nbsp;&nbsp;<a href= {{ $el.description }}>Notes</a>
         </h5>
       {{ end }}
       </div>

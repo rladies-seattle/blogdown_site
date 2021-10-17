@@ -1,0 +1,1 @@
+$('a').filter(function(){return $(this).attr('href') === "" || $(this).attr('href') === "#"}).hide();

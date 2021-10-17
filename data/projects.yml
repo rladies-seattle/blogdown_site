@@ -5,56 +5,63 @@ source:
     title: Building R Packages for Yourself and Others
     speaker: Reiko Okamoto
     link: https://docs.google.com/presentation/d/17r1tIAafjhR_L5GJrdUlrdycw5CQE_2MvOnwLjmfr1Q/edit#slide=id.p
-    description:
+    description: https://docs.google.com/document/d/1Gi43fXwkbbu3sI8z16Dj0etWtKPzlhqiAKnz5Kpxn7Q/edit?usp=sharing
 
   - icon: fa fa-github
     date: 2021-09-28
     title: Using .gitignore
     speaker: Jess Chandler
     link: https://github.com/monkeywithacupcake/lightning-gitignore
-    description:
-  
+    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
+    
   - icon: fa fa-github
     date: 2021-09-28
     title: GitHub Websites
     speaker: Kim Dill-McFarland
     link: https://github.com/kdillmcfarland/presentations/blob/master/20210928_Rladies.git.websites.pdf
-    description:
+    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
     
   - icon: fa fa-file
     date: 2021-09-28
     title: Using GitHub Actions to Deploy a Blogdown Site 
     speaker: Katie Masiello
     link: hhttps://docs.google.com/presentation/d/1gdiUq5oENyaAXKMSVmEm9DeOAEN96zdYQ08fm3CPpFM/edit#slide=id.p
-    description:
+    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
     
   - icon: fa fa-github
     date: 2021-09-28
     title: Intermediate Git and Github - Security
     speaker: Jenny Smith
     link: https://github.com/jennylsmith/intermediate_git
-    description:
+    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
   
   - icon: fa fa-file
     date: 2021-09-28
     title: Github CLI
     speaker: Madison Swain-Bowden
     link: https://docs.google.com/presentation/d/1RdSY687O4lxLxY2AcN8IQtEEDxWiP_4_b4p0dmbS6LY/edit#slide=id.p
-    description:
+    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
     
   - icon: fa fa-github
     date: 2021-07-20
     title: Dimensionality Reduction Tutorial PCA and UMAP
     speaker: Anabel Ruggiero
     link: https://github.com/AnabelSMRuggiero/Dimensionality-Reduction-Tutorial
-    description:
+    description: https://docs.google.com/document/d/1xPPt5-6gjsyUCmO5mOUBuCrxLjbzFfN5oOrl4qp8mqQ/edit?usp=sharing
 
   - icon: fa fa-file
     date: 2021-05-26
     title: Practice talks for CascadiaRConf
     speaker: Katie Jolly, Kim Dill-McFarland, and Nicole Kauer
-    link: https://docs.google.com/presentation/d/1tFA_XcGrY_DFPY4BYqgUvmJo9hiSgnTC8DomSSjY_Zc/edit?usp=sharing
+    link:
     description:
+    
+  - icon: fa fa-file
+    date: 2021-04-07
+    title: How to Give a Good Conference or Meetup Talk
+    speaker: Dr. Kate Hertweck, Dr. Marie Vendettuoli, and Kara Woo moderated by Isabella Velásquez
+    link: https://docs.google.com/presentation/d/1tFA_XcGrY_DFPY4BYqgUvmJo9hiSgnTC8DomSSjY_Zc/edit?usp=sharing
+    description: https://docs.google.com/document/d/1NjWrK4OsNznaGDGLJLP8TGsRebw3ZQDUhiAaobB58Dk/edit?usp=sharing
 
   - icon: fa fa-github
     date: 2021-04-02
@@ -68,14 +75,14 @@ source:
     title: Writing Presentations in R
     speaker: Silvia Canelón and Katie Jolly
     link: https://silvia.rbind.io/talk/2021-03-16-xaringan-deploy-demo/
-    description:
+    description: https://docs.google.com/document/d/1jHtDWa-7oNgq0RtDlw1eavGFt_X25f9T9aFa2g60Ork/edit?usp=sharing
 
   - icon: fa fa-file
     date: 2021-02-10
     title: Parallel Processing in R
     speaker: Brittany Barker
     link: https://ookla.d.pr/e8wwP1
-    description:
+    description: https://docs.google.com/document/d/14CdmgrPL069Tmrijh_dmSPtsVJeFO2SmK0YBFjdQNO0/edit?usp=sharing
 
   - icon: fa fa-github
     date: 2021-01-14
@@ -383,4 +390,4 @@ source:
     title: Intro to Accessing Web API Data
     speaker: Nina Cesare
     link: https://rladies-sea.slack.com/archives/C81BK49QF/p1521509470000219
-    description:
+    description: #

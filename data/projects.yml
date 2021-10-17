@@ -49,7 +49,7 @@ source:
     link: https://github.com/AnabelSMRuggiero/Dimensionality-Reduction-Tutorial
     description: https://docs.google.com/document/d/1xPPt5-6gjsyUCmO5mOUBuCrxLjbzFfN5oOrl4qp8mqQ/edit?usp=sharing
 
-  - icon: fa fa-file
+  - icon:
     date: 2021-05-26
     title: Practice talks for CascadiaRConf
     speaker: Katie Jolly, Kim Dill-McFarland, and Nicole Kauer

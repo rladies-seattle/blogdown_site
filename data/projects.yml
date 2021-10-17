@@ -1,6 +1,13 @@
 name: Past Talks
 source:
   - icon: fa fa-github
+    date: 2021-09-28
+    title: Using .gitignore
+    speaker: Jess Chandler
+    link: https://github.com/monkeywithacupcake/lightning-gitignore
+    description: One of Git Intermediate Lightning Talks - quick guidance on what .gitignore does and what to do when it goes wrong
+    
+  - icon: fa fa-github
     date: 2021-07-20
     title: Dimensionality Reduction Tutorial PCA and UMAP
     speaker: Anabel Ruggiero

@@ -1,5 +1,12 @@
 name: Past Talks
 source:
+  - icon: fa fa-github
+    date: 2021-12-08
+    title: Survival Analysis with R Tidymodels Presentation
+    speaker: Jenny Smith
+    link: https://github.com/jennylsmith/tidy_models
+    description: https://docs.google.com/document/d/13k5qLO4K0xgBiIeVJxtAvbUh847mahinjYIG9Z8XTaI/edit?usp=sharing
+
   - icon: fa fa-file
     date: 2021-10-05
     title: Building R Packages for Yourself and Others

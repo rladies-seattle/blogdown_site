@@ -5,396 +5,396 @@ source:
     title: Survival Analysis with R Tidymodels Presentation
     speaker: Jenny Smith
     link: https://github.com/jennylsmith/tidy_models
-    description: https://docs.google.com/document/d/13k5qLO4K0xgBiIeVJxtAvbUh847mahinjYIG9Z8XTaI/edit?usp=sharing
+    notes: https://docs.google.com/document/d/13k5qLO4K0xgBiIeVJxtAvbUh847mahinjYIG9Z8XTaI/edit?usp=sharing
 
   - icon: fa fa-file
     date: 2021-10-05
     title: Building R Packages for Yourself and Others
     speaker: Reiko Okamoto
     link: https://docs.google.com/presentation/d/17r1tIAafjhR_L5GJrdUlrdycw5CQE_2MvOnwLjmfr1Q/edit#slide=id.p
-    description: https://docs.google.com/document/d/1Gi43fXwkbbu3sI8z16Dj0etWtKPzlhqiAKnz5Kpxn7Q/edit?usp=sharing
+    notes: https://docs.google.com/document/d/1Gi43fXwkbbu3sI8z16Dj0etWtKPzlhqiAKnz5Kpxn7Q/edit?usp=sharing
 
   - icon: fa fa-github
     date: 2021-09-28
     title: Using .gitignore
     speaker: Jess Chandler
     link: https://github.com/monkeywithacupcake/lightning-gitignore
-    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
+    notes: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
     
   - icon: fa fa-github
     date: 2021-09-28
     title: GitHub Websites
     speaker: Kim Dill-McFarland
     link: https://github.com/kdillmcfarland/presentations/blob/master/20210928_Rladies.git.websites.pdf
-    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
+    notes: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
     
   - icon: fa fa-file
     date: 2021-09-28
     title: Using GitHub Actions to Deploy a Blogdown Site 
     speaker: Katie Masiello
     link: hhttps://docs.google.com/presentation/d/1gdiUq5oENyaAXKMSVmEm9DeOAEN96zdYQ08fm3CPpFM/edit#slide=id.p
-    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
+    notes: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
     
   - icon: fa fa-github
     date: 2021-09-28
     title: Intermediate Git and Github - Security
     speaker: Jenny Smith
     link: https://github.com/jennylsmith/intermediate_git
-    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
+    notes: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
   
   - icon: fa fa-file
     date: 2021-09-28
     title: Github CLI
     speaker: Madison Swain-Bowden
     link: https://docs.google.com/presentation/d/1RdSY687O4lxLxY2AcN8IQtEEDxWiP_4_b4p0dmbS6LY/edit#slide=id.p
-    description: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
+    notes: https://docs.google.com/document/d/1LdoDZPGqgOXf8lyC-fy_LW1yo5mI2EiwCg7m70_14rg/edit#
     
   - icon: fa fa-github
     date: 2021-07-20
     title: Dimensionality Reduction Tutorial PCA and UMAP
     speaker: Anabel Ruggiero
     link: https://github.com/AnabelSMRuggiero/Dimensionality-Reduction-Tutorial
-    description: https://docs.google.com/document/d/1xPPt5-6gjsyUCmO5mOUBuCrxLjbzFfN5oOrl4qp8mqQ/edit?usp=sharing
+    notes: https://docs.google.com/document/d/1xPPt5-6gjsyUCmO5mOUBuCrxLjbzFfN5oOrl4qp8mqQ/edit?usp=sharing
 
   - icon:
     date: 2021-05-26
     title: Practice talks for CascadiaRConf
     speaker: Katie Jolly, Kim Dill-McFarland, and Nicole Kauer
     link:
-    description:
+    notes:
     
   - icon: fa fa-file
     date: 2021-04-07
     title: How to Give a Good Conference or Meetup Talk
     speaker: Dr. Kate Hertweck, Dr. Marie Vendettuoli, and Kara Woo moderated by Isabella Velásquez
     link: https://docs.google.com/presentation/d/1tFA_XcGrY_DFPY4BYqgUvmJo9hiSgnTC8DomSSjY_Zc/edit?usp=sharing
-    description: https://docs.google.com/document/d/1NjWrK4OsNznaGDGLJLP8TGsRebw3ZQDUhiAaobB58Dk/edit?usp=sharing
+    notes: https://docs.google.com/document/d/1NjWrK4OsNznaGDGLJLP8TGsRebw3ZQDUhiAaobB58Dk/edit?usp=sharing
 
   - icon: fa fa-github
     date: 2021-04-02
     title: git through April
     speaker: Kim Dill-McFarland, Monica Gerber, Isabella Velásquez, Madison Swain-Bowden, with Katie Jolly, Jenny Smith, Lauren Wolfe, Pamela Moriarty in collaboration with the Carpentries
     link: https://github.com/kdillmcfarland/2021-04-02-r-ladies-seattle-online
-    description:
+    notes:
 
   - icon: fa fa-link
     date: 2021-03-16
     title: Writing Presentations in R
     speaker: Silvia Canelón and Katie Jolly
     link: https://silvia.rbind.io/talk/2021-03-16-xaringan-deploy-demo/
-    description: https://docs.google.com/document/d/1jHtDWa-7oNgq0RtDlw1eavGFt_X25f9T9aFa2g60Ork/edit?usp=sharing
+    notes: https://docs.google.com/document/d/1jHtDWa-7oNgq0RtDlw1eavGFt_X25f9T9aFa2g60Ork/edit?usp=sharing
 
   - icon: fa fa-file
     date: 2021-02-10
     title: Parallel Processing in R
     speaker: Brittany Barker
     link: https://ookla.d.pr/e8wwP1
-    description: https://docs.google.com/document/d/14CdmgrPL069Tmrijh_dmSPtsVJeFO2SmK0YBFjdQNO0/edit?usp=sharing
+    notes: https://docs.google.com/document/d/14CdmgrPL069Tmrijh_dmSPtsVJeFO2SmK0YBFjdQNO0/edit?usp=sharing
 
   - icon: fa fa-github
     date: 2021-01-14
     title: Version control with git and GitHub-- An introduction to git tools to help you collaborate across space and time
     speaker: Kim Dill-McFarland
     link: https://github.com/hawn-lab/workshops_UW_Seattle/blob/master/2021.01.14_git/2020.01.14_git.pptx
-    description:
+    notes:
     
   - icon: fa fa-file
     date: 2021-01-14
     title: How reproducible code is helping me learn to make clearer, more compelling figures
     speaker: Tracy Fuentes
     link: 
-    description:
+    notes:
     
   - icon: fa fa-github
     date: 2021-01-14
     title: Writing research papers with reproducible analysis using R Markdown compendia
     speaker: Li-Ying Wang
     link: https://github.com/LiYingWang/kwl.pottery
-    description: 
+    notes:
 
   - icon: fa fa-file
     date: 2020-08-05
     title: What do penguins have to do with being anti-racist?
     speaker: Isabella Velásquez
     link: https://docs.google.com/presentation/d/1te1mdJde5xqaW-Wi7AN1xDewsVOrpkywL7RvaRq7GM8/edit?usp=sharing
-    description:
+    notes:
 
   - icon: fa fa-github
     date: 2020-03-24
     title: R Help and Debugging
     speaker: Christine Stawitz
     link: https://cstawitz.github.io/docs/Stawitz_20200323.html#/
-    description:
+    notes:
     
   - icon: fa fa-file
     date: 2020-03-24
     title: Writing reproducible examples to get ‘good help’
     speaker: Katie Jolly
     link: https://www.katiejolly.io/rladies-reprex-2020/#1   
-    description:
+    notes:
     
   - icon: fa fa-file
     date: 2019-10-29
     title: Why a style guide is more important than you think
     speaker: Monica Gerber
     link: https://docs.google.com/presentation/d/11eFyIS9K2U4z31VliHqtyaKSUihr3cZBAdKSzktMV7w/edit?usp=sharing   
-    description:
+    notes:
     
   - icon: fa fa-file
     date: 2019-10-29
     title: Using R in design projects
     speaker: Katie Jolly
     link: https://drive.google.com/file/d/1YgV7CVRdSN_m3VBIaXeOHCbAqlavvpCa/view?usp=sharing   
-    description:
+    notes:
     
   - icon: fa fa-file
     date: 2019-10-29
     title: Taming, tidying and visualizing longitudinal data, or data sets that keep me up at night
     speaker: Claire Levy
     link: https://drive.google.com/file/d/1M48CLt5PpwLwR9BfKgaZGvbTwhzYXrjj/view   
-    description:
+    notes:
     
   - icon: fa fa-file
     date: 2019-10-29
     title: Attack of the Zombie Data
     speaker: Natalie Miller
     link: https://drive.google.com/file/d/15zUjbzq6vJIMagMeBBuUutCHEz5BoruI/view?usp=sharing   
-    description:
+    notes:
 
   - icon: fa fa-file
     date: 2019-08-28
     title: Code Reviews
     speaker: Carrie Bennette
     link: https://drive.google.com/file/d/1rvS7nvlQnVwHfvLFVogTVY2OQ0QFCRcV/view?usp=sharing   
-    description:	
+    notes:
     
   - icon: fa fa-file
     date: 2019-08-28
     title: A Non-Technical Talk on Code Review
     speaker: Lauren Wolfe
     link: https://drive.google.com/file/d/1vdVCNpPWutKmoXfHbhqV_5s3UmCAPGil/view?usp=sharing    
-    description:	
+    notes:
     
   - icon: fa fa-file
     date: 2019-07-16
     title: Tools for Behavioral Health Analytics
     speaker: Carolina Johnson
     link: https://docs.google.com/presentation/d/1Id4Hx90dfn1Ksbvb4VgkjQjLX4do29TUggOjdX7F3Zg/edit?usp=sharing    
-    description:	
+    notes:
 
   - icon: fa fa-file
     date: 2019-07-16
     title: Using Shiny to Understand Immunologists
     speaker: Helen Miller
     link: https://docs.google.com/presentation/d/1PThoe1qgObHiaCkstmRjibVggImYvQMNsIg7B421pM4/edit?usp=sharing
-    description:	
+    notes:
 
   - icon: fa fa-file
     date: 2019-07-16
     title: A Shiny app for projecting marine mammal populations
     speaker: Megsie Siple
     link: https://drive.google.com/open?id=12znmlIk_AWE8_OHvQT7_Qa4n3ju0b0E_
-    description:	
+    notes:
 
   - icon: fa fa-file
     date: 2019-07-16
     title: Taking a Peek at Hiking Data Using R
     speaker: Isabella Velásquez
     link: https://docs.google.com/presentation/d/1hDxK7gbdg13HzeIGQ9Od-tCHhOwfKM1fSCoeJpvjlaA/edit#slide=id.p
-    description:	
+    notes:
 
   - icon: fa fa-file
     date: 2019-07-16
     title: NCBI Hackathons
     speaker: Jenny Smith
     link: https://docs.google.com/presentation/d/1fWi5nlbtJMSmckXTLcdytDYbmPWqeTQm8yqFlg_83sw/edit?usp=sharing
-    description:	
+    notes:
 
   - icon: fa fa-file
     date: 2019-07-16
     title: Can you paint with all the colors of R Markdown?
     speaker: Jessica Marx
     link: https://docs.google.com/presentation/d/1vY6dL2kTLZcDXytF5HRpZfDP5l15Ov0k1E2QtLic2Ws/edit?usp=sharing
-    description:	
+    notes:
 
   - icon: fa fa-file
     date: 2019-07-16
     title: Data Automation to Support Fisheries Management at Dams
     speaker: Megan Stachura
     link: https://drive.google.com/file/d/1bYQwexDYBTBa7mPo7VlVT5HfyMKUdBZa/view
-    description:	
+    notes:
     
   - icon: fa fa-file
     date: 2019-07-16
     title: Fast and Furrr-ious - Parallelized Purrr
     speaker: Pamela Moriarty
     link: https://docs.google.com/presentation/d/106DLH6OzkwoW41YKGMn_ym3p_REDRKbT6v2JUtapk3k/edit?usp=sharing
-    description:	
+    notes:
 
   - icon:
     date:	2019-05-22
     title:	Learning R
     speaker:	Malisa Smith
     link:	
-    description:	
+    notes:
 
   - icon:	
     date:	2019-05-22
     title:	Building Community
     speaker:	Stefanie Butland
     link:	
-    description:	
+    notes:
 
   - icon:	fa fa-github
     date:	2019-02-17
     title:	Intro to Shiny
     speaker: Megsie Siple
     link:	https://github.com/mcsiple/shinysea
-    description:	
+    notes:
 
   - icon:	fa fa-github
     date:	2019-01-29
     title:	Intro to R's S4 class
     speaker:	Chao-Jen Wong
     link:	https://github.com/FredHutch/FHBig/tree/master/lightning_talk/2019-01-23-RLadies-R-OOP
-    description:	
+    notes:
 
   - icon:	fa fa-file
     date:	2019-01-29
     title:	Basics of data structures in R
     speaker:	Rachael Tatman
     link:	http://www.rctatman.com/files/Tatman_2019_RDataStructures.pdf
-    description:	
+    notes:
 
   - icon:	
     date:	2018-11-28
     title:	Careers and Use Cases Talks
     speaker:	Marie Jordan
     link:
-    description:	
+    notes:
 
   - icon:	fa fa-slack
     date:	2018-11-28
     title:	Fish & FASDS - Data Visualization Strategies and Techniques
     speaker:	Kelly Mistry
     link:	https://rladies-sea.slack.com/archives/C81BK49QF/p1543527811015000
-    description:	
+    notes:
 
   - icon:	
     date:	2018-10-29
     title:	History of R
     speaker:	Pamela Moriarty
     link:	
-    description:	
+    notes:
 
   - icon:	
     date:	2018-10-29
     title:	Shiny Tips and Tricks
     speaker:	Megsie Siple
     link:	
-    description:	
+    notes:
 
   - icon:	fa fa-file
     date:	2018-10-29
     title:	Tracking Gas Mileage
     speaker:	Kara Woo
     link:	https://speakerdeck.com/karawoo/tracking-my-cars-gas-mileage-with-shiny
-    description:	
+    notes:
 
   - icon:	
     date:	2018-10-29
     title:	Project Management Using R
     speaker:	Liz Kellogg
     link:	
-    description:	
+    notes:
 
   - icon:	fa fa-file
     date:	2018-09-24
     title:	Data Science Portfolios
     speaker:	Rachael Tatman
     link:	http://www.rctatman.com/files/Tatman_2018_DataSciencePortfolios_DC.pdf
-    description:	
+    notes:
 
   - icon:	fa fa-github
     date:	2018-08-28
     title:	RStudio add-ins
     speaker:	Rebecca Ferrell
     link:	https://github.com/rebeccaferrell/rstudio-addins-talk
-    description:	
+    notes:
 
   - icon:	
     date:	2018-08-28
     title:	riverdist
     speaker:	Kerice Doten-Snitker
     link:	
-    description:	
+    notes:
 
   - icon:	fa fa-file
     date:	2018-07-23
     title:	Blogdown for What
     speaker:	Isabella Velásquez
     link:	https://bit.ly/blogdownfw
-    description:	
+    notes:
 
   - icon:	fa fa-github
     date:	2018-06-25
     title:	Intro to Drake
     speaker:	Christine Stawitz
     link:	https://github.com/cstawitz/RLadies_Sea_Drake
-    description:	
+    notes:
 
   - icon:	fa fa-github
     date:	2018-06-25
     title:	Intro to Git
     speaker: Chaya Jones
     link:	https://github.com/rladies-seattle/git_intro
-    description:	
+    notes:
 
   - icon:	fa fa-file
     date:	2018-05-23
     title:	Making contributions to established R projects
     speaker:	Kara Woo
     link:	https://speakerdeck.com/karawoo/r-tips-for-first-time-contributions-to-r-packages
-    description:	
+    notes:
 
   - icon:	fa fa-github
     date:	2018-05-23
     title:	Blogging and Contributing to R Projects
     speaker:	Maëlle Salmon
     link:	https://github.com/maelle/rladiesseattle
-    description:	
+    notes:
   
   - icon:	fa fa-slack
     date:	2018-04-23
     title:	Spatial Data Visualizations
     speaker:	Aysegul Kramer
     link:	https://rladies-sea.slack.com/archives/C81BK49QF/p1524533030000253
-    description:	
+    notes:
   
   - icon:	
     date:	2018-03-19
     title:	Solving a Polyalphabetic Cypher
     speaker:	Nissa Ferm
     link:	
-    description:
+    notes:
 
   - icon: fa fa-file
     date: 2018-03-19
     title: How to Give a Lightning Talk
     speaker: Rachael Tatman
     link: https://docs.google.com/presentation/d/1nod6zgs1DQczpxWg_8opKS7gDmzWMmjMNWIxKzjhEWM/edit?usp=sharing
-    description:
+    notes:
 
   - icon: fa fa-github
     date: 2018-03-19
     title: Intro to Shiny
     speaker: Bethany Yollin
     link: https://github.com/byollin/r-ladies/tree/master/presentations/2018-03-19
-    description:
+    notes:
 
   - icon: fa fa-slack
     date: 2018-03-19
     title: Intro to Accessing Web API Data
     speaker: Nina Cesare
     link: https://rladies-sea.slack.com/archives/C81BK49QF/p1521509470000219
-    description: #
+    notes: #

@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "seattle.jpg"
+  avatar = "img/seattle.jpg"
   author = "R-Ladies Seattle"
   description = "R-Ladies Seattle Blogdown Site"
 
@@ -38,3 +38,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "projects"
   weight = 200
   url = "/projects/"
+[[menu.main]]
+  name = "join slack"
+  identifier = "slack"
+  weight = 300
+  url = "https://pmyc0eskne.execute-api.us-west-2.amazonaws.com/Express/"

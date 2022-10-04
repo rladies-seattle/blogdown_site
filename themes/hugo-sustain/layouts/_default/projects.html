@@ -1,15 +1,21 @@
-<section id="projects">
+{{ define "main" }}
+  <!-- Header -->
+  {{ partial "header" . }}
+
   <div class="container">
-    <h3>{{ .Site.Data.projects.name }}</h3>
-    <div class="panel panel-default">
-      <div class="panel-body">
-      {{ range $i, $el := .Site.Data.projects.source }}
-        <h5>
-          <a href={{ .link }}><i class="{{ .icon }}"></i></a>&nbsp;&nbsp;
-          {{ .date }}<strong>&nbsp;{{ .title }}</strong>&nbsp;<i>{{ .speaker }}</i>&nbsp;&nbsp;<a href= {{ $el.description }}>Notes</a>
-        </h5>
-      {{ end }}
+    <section id="projects">
+      <h4 class="my-5">{{ .Site.Data.projects.name }}</h4>
+      <div class="panel">
+        <div class="panel-body">
+            {{ range $i, $el := .Site.Data.projects.source }}
+                    <h5>
+                      <a href={{ .link }}><i class="{{ .icon }}"></i></a>&nbsp;&nbsp;
+                      {{ .date }}<strong>&nbsp;{{ .title }}</strong>&nbsp;<i>{{ .speaker }}</i>&nbsp;&nbsp;<a href={{ $el.notes }}>Notes</a>
+                    </h5>
+                    <br>
+          {{ end }}
+        </div>
       </div>
-    </div>
+    </section>
   </div>
-</section>
+{{ end }}

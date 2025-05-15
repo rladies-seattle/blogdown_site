@@ -17,7 +17,7 @@ To update the site with a new presentation:
     blogdown::install_hugo()
     ```
 5. Run `blogdown::serve_site()`. The site should render.
-6. Tag `ivelasq`, `katiejolly`, or `monicagerber` to review and approve the pull request.
+6. Tag `kdillmcfarland` to review and approve the pull request.
 
 If you would like assistance at any point, please [file an issue](https://github.com/rladies-seattle/blogdown_site/issues) and we'll get back to you as soon as possible. Thanks for your patience!
 
